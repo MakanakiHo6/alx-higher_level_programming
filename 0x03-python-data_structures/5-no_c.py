@@ -6,4 +6,4 @@ def no_c(my_string):
     for char in new_list:
         if char != 'c' and char != 'C':
             new_string += char
-    return 
+    return new_string
